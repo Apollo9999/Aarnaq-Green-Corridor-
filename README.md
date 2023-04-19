@@ -1,4 +1,4 @@
-# TraffiKAI
+# Traffic Video Analysis
 
 A-EYE on ROADS!
 An AI & ML solution to solve some of the basic but most important traffic problems in day to day life.
