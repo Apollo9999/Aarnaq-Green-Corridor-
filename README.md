@@ -12,7 +12,7 @@ Solution:- The solution to solve the above problems as proposed are Dynamic Traf
 
 ## Dynamic Traffic Signaling
 Dynamic Traffic Signaling is implemented by calculating the density of traffic in each lane in a multi lane system and using this information it turns the signal lights green or red accordingly. It allocates the least time to the lane which has less density traffic and the time saved here is allocated to the lane which has high density traffic.  
-Object detection alogorithm: Single Shot Detector (trained on COCO dataset)  
+Object detection algorithm: Single Shot Detector (trained on COCO dataset)  
 Teck Stack: Python, PyQT, OpenCV, Streamlit
 
 ## Emergency Vehicle Detection
