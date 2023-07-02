@@ -25,10 +25,10 @@ System Workflow:-
 
 ![Workflow](https://user-images.githubusercontent.com/80829447/205130227-27c7a87d-dcd4-44b2-a248-9f9dc7bbba03.jpg)
 
-GUI:  
+GUI based Video Demo:  
 
 
-https://user-images.githubusercontent.com/80829447/205130444-28d5a190-54b9-424e-b6b2-5154ea2337d0.mp4
+https://github.com/Apollo9999/Green-Corridor/blob/main/Demo.mp4
 
 
 
