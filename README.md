@@ -1,5 +1,4 @@
-# Traffic Video Analysis
-
+# Green Corridor
 
 An AI & ML solution to solve some of the basic but most important traffic problems in day to day life.
 
