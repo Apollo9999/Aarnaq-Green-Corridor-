@@ -28,9 +28,4 @@ System Workflow:-
 GUI based Video Demo:  
 
 
-![Video](https://github.com/Apollo9999/Green-Corridor/blob/main/Demo.mp4) 
-
-
-
-
-
+[![Watch the video](https://github.com/Apollo9999/Green-Corridor/blob/main/Demo.mp4)]
